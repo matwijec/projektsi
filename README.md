@@ -1,4 +1,4 @@
-## header H2 Projekt SI papier, kamień, nożyce
+##  Projekt SI papier, kamień, nożyce
 
 W tym projekcie użyłem do klasyfikacji obrazu pochodzącego z kamerki (przy użyciu opencv) biblioteki keras. Projekt składa się z pliku train.py, gdzie jest uczony model, a w play.py znajduje sie logika gry.
 
